@@ -35,10 +35,23 @@ body{
 	box-shadow:85px 0 #171616;
 }
 .glasses{
-	
+	position:absolute;
+	width:200px;
+	height:75px;
+	background-color:#e81c3e;
+	top:50px;
+	opacity:20%;
 }
 .shine{
-	
+	position:absolute;
+	width:25px;
+	height:97;
+	background-color:white;
+	top:-11px;
+	left:60px;
+	transform:rotate(30deg);
+	opacity:60%;
+	border-radius:150% 0 150% 0;
 }
 .bread{
 	
