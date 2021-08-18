@@ -64,7 +64,14 @@ body{
 	transform:translate(-50%);
 }
 .smile{
-	
+	position:absolute;
+	width:40px;
+	height:20px;
+	background-color:#fbfaff;
+	border-radius:0 0 20px 20px;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-90%);
 }
 .nose{
 	
