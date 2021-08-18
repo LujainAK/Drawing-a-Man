@@ -15,7 +15,14 @@ body{
 	border-radius:50%;
 }
 .manhead{
-	
+	position:absolute;
+	left:50%;
+	top:50%;
+	transform: translate(-50%, -50%);
+	width:200px;
+	height:250px;
+	background-color:#ffdea6;
+	border-bottom:20px #e81c3e solid;
 }
 .eye{
 	
@@ -36,9 +43,6 @@ body{
 	
 }
 .hair{
-	
-}
-.nicktshirt{
 	
 }
 .tshirt{
