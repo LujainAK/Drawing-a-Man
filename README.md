@@ -1,6 +1,9 @@
 # Drawing a Man
 Drawing a Man using html & css only for practicing purposes. 
 
+## Creation Date 
+2021-8-18 Wednesday 
+
 ## Files Included
 * Index.html
 * manstyle.css 
