@@ -1,0 +1,46 @@
+*{
+	margin:0;
+	padding:0;
+}
+body{
+	position:relative;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.bcgr{
+	background-color:#f0f6ff;
+	width:600px;
+	height:600px;
+	border-radius:50%;
+}
+.manhead{
+	
+}
+.eye{
+	
+}
+.glasses{
+	
+}
+.shine{
+	
+}
+.bread{
+	
+}
+.smile{
+	
+}
+.nose{
+	
+}
+.hair{
+	
+}
+.nicktshirt{
+	
+}
+.tshirt{
+	
+}
