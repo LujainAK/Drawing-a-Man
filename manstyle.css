@@ -87,5 +87,11 @@ body{
 	
 }
 .tshirt{
-	
+	position:absolute;
+	width:120%;
+	height:30px;
+	background-color:#e82748;
+	left:-10%;
+	bottom:-50px;
+	border-radius:2px;
 }
